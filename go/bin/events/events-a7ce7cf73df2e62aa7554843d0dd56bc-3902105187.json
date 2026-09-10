@@ -1,0 +1,10 @@
+[
+  {
+    "event": {
+      "message": "hello"
+    },
+    "host": "example",
+    "sourcetype": "app:json",
+    "time": 1750000000.123
+  }
+]
